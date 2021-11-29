@@ -3,5 +3,6 @@
 # @Time     : 
 # @Author   : geng
 # @File     : hello
-
+import os
 print("hello world!")
+print(os.getcwd())
